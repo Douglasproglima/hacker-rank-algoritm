@@ -6,44 +6,19 @@ namespace mini_max_sum
 {
     internal class Program
     {
-        public static void miniMaxSum(List<int> _numbers)
+        public static void miniMaxSum(List<int> numbers)
         {
-            /*
-             
-             long sum = 0;
-             long[] chk = new long[arr.Count]; 
-            
-             for (int i = 0; i < arr.Count ; i++) 
-            { 
-                sum = arr.Sum(x => (long)x) - arr[i]; 
-                chk[i] = sum;
+            long total = 0;
+            long[] numbersTemp = new long[numbers.Count];
+
+            for (int indice = 0; indice < numbers.Count; indice++)
+            {
+                total = numbers.Sum(x => (long)x) - numbers[indice];
+                numbersTemp[indice] = total;
             }
 
-            Console.WriteLine(chk.Min() + " " + chk.Max());
-             */
-
-            List<long> numbers = new List<long>();
-
-            foreach (int number in _numbers)
-                numbers.Add(Convert.ToInt64(number));
-
-            numbers.Sort();
-
-            long minimumNumber = 0; 
-            minimumNumber = numbers.Min();
-
-            long maximumNumber = 0; 
-            maximumNumber = numbers.Max();
-
-            List<long> maximumNumberTemp = new List<long>(numbers);
-            maximumNumberTemp.Remove(minimumNumber);
-
-            long maximumTotal = maximumNumberTemp.Sum();
-
-            List<long> minimumNumberTemp = new List<long>(numbers);
-            minimumNumberTemp.Remove(maximumNumber);
-
-            long minimumTotal = minimumNumberTemp.Sum();
+            long minimumTotal = numbersTemp.Min();
+            long maximumTotal = numbersTemp.Max();
 
             Console.WriteLine($"{minimumTotal} {maximumTotal}");
         }

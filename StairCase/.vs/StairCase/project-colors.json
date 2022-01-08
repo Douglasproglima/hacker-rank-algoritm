@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aa6f2e13-e730-419c-b4f0-90a3d031c80a": {
+      "ProjectGuid": "aa6f2e13-e730-419c-b4f0-90a3d031c80a",
+      "DisplayName": "StairCase",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
