@@ -1,0 +1,16 @@
+D:\Workspace\C#\hacker-rank-algoritm\mini-max-sum\mini-max-sum\bin\Debug\net5.0\mini-max-sum.exe
+D:\Workspace\C#\hacker-rank-algoritm\mini-max-sum\mini-max-sum\bin\Debug\net5.0\mini-max-sum.deps.json
+D:\Workspace\C#\hacker-rank-algoritm\mini-max-sum\mini-max-sum\bin\Debug\net5.0\mini-max-sum.runtimeconfig.json
+D:\Workspace\C#\hacker-rank-algoritm\mini-max-sum\mini-max-sum\bin\Debug\net5.0\mini-max-sum.runtimeconfig.dev.json
+D:\Workspace\C#\hacker-rank-algoritm\mini-max-sum\mini-max-sum\bin\Debug\net5.0\mini-max-sum.dll
+D:\Workspace\C#\hacker-rank-algoritm\mini-max-sum\mini-max-sum\bin\Debug\net5.0\ref\mini-max-sum.dll
+D:\Workspace\C#\hacker-rank-algoritm\mini-max-sum\mini-max-sum\bin\Debug\net5.0\mini-max-sum.pdb
+D:\Workspace\C#\hacker-rank-algoritm\mini-max-sum\mini-max-sum\obj\Debug\net5.0\mini-max-sum.csproj.AssemblyReference.cache
+D:\Workspace\C#\hacker-rank-algoritm\mini-max-sum\mini-max-sum\obj\Debug\net5.0\mini-max-sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\hacker-rank-algoritm\mini-max-sum\mini-max-sum\obj\Debug\net5.0\mini-max-sum.AssemblyInfoInputs.cache
+D:\Workspace\C#\hacker-rank-algoritm\mini-max-sum\mini-max-sum\obj\Debug\net5.0\mini-max-sum.AssemblyInfo.cs
+D:\Workspace\C#\hacker-rank-algoritm\mini-max-sum\mini-max-sum\obj\Debug\net5.0\mini-max-sum.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\hacker-rank-algoritm\mini-max-sum\mini-max-sum\obj\Debug\net5.0\mini-max-sum.dll
+D:\Workspace\C#\hacker-rank-algoritm\mini-max-sum\mini-max-sum\obj\Debug\net5.0\ref\mini-max-sum.dll
+D:\Workspace\C#\hacker-rank-algoritm\mini-max-sum\mini-max-sum\obj\Debug\net5.0\mini-max-sum.pdb
+D:\Workspace\C#\hacker-rank-algoritm\mini-max-sum\mini-max-sum\obj\Debug\net5.0\mini-max-sum.genruntimeconfig.cache
