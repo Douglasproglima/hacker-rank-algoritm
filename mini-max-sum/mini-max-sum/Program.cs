@@ -26,7 +26,7 @@ namespace mini_max_sum
 
             int minimumTotal = minimumNumberTemp.Sum();
 
-            Console.WriteLine(minimumTotal + " " + maximumTotal);
+            Console.WriteLine($"{minimumTotal} {maximumTotal}");
         }
 
         static void Main(string[] args)
