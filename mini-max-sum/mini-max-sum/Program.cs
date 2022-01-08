@@ -8,6 +8,8 @@ namespace mini_max_sum
     {
         public static void miniMaxSum(List<int> numbers)
         {
+            numbers.Sort();
+
             int minimumNumber = 0; 
             minimumNumber = numbers.Min();
 
