@@ -1,0 +1,16 @@
+D:\Workspace\C#\hacker-rank-algoritm\birthday-cake-candles\birthday-cake-candles\bin\Debug\net5.0\birthday-cake-candles.exe
+D:\Workspace\C#\hacker-rank-algoritm\birthday-cake-candles\birthday-cake-candles\bin\Debug\net5.0\birthday-cake-candles.deps.json
+D:\Workspace\C#\hacker-rank-algoritm\birthday-cake-candles\birthday-cake-candles\bin\Debug\net5.0\birthday-cake-candles.runtimeconfig.json
+D:\Workspace\C#\hacker-rank-algoritm\birthday-cake-candles\birthday-cake-candles\bin\Debug\net5.0\birthday-cake-candles.runtimeconfig.dev.json
+D:\Workspace\C#\hacker-rank-algoritm\birthday-cake-candles\birthday-cake-candles\bin\Debug\net5.0\birthday-cake-candles.dll
+D:\Workspace\C#\hacker-rank-algoritm\birthday-cake-candles\birthday-cake-candles\bin\Debug\net5.0\ref\birthday-cake-candles.dll
+D:\Workspace\C#\hacker-rank-algoritm\birthday-cake-candles\birthday-cake-candles\bin\Debug\net5.0\birthday-cake-candles.pdb
+D:\Workspace\C#\hacker-rank-algoritm\birthday-cake-candles\birthday-cake-candles\obj\Debug\net5.0\birthday-cake-candles.csproj.AssemblyReference.cache
+D:\Workspace\C#\hacker-rank-algoritm\birthday-cake-candles\birthday-cake-candles\obj\Debug\net5.0\birthday-cake-candles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\hacker-rank-algoritm\birthday-cake-candles\birthday-cake-candles\obj\Debug\net5.0\birthday-cake-candles.AssemblyInfoInputs.cache
+D:\Workspace\C#\hacker-rank-algoritm\birthday-cake-candles\birthday-cake-candles\obj\Debug\net5.0\birthday-cake-candles.AssemblyInfo.cs
+D:\Workspace\C#\hacker-rank-algoritm\birthday-cake-candles\birthday-cake-candles\obj\Debug\net5.0\birthday-cake-candles.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\hacker-rank-algoritm\birthday-cake-candles\birthday-cake-candles\obj\Debug\net5.0\birthday-cake-candles.dll
+D:\Workspace\C#\hacker-rank-algoritm\birthday-cake-candles\birthday-cake-candles\obj\Debug\net5.0\ref\birthday-cake-candles.dll
+D:\Workspace\C#\hacker-rank-algoritm\birthday-cake-candles\birthday-cake-candles\obj\Debug\net5.0\birthday-cake-candles.pdb
+D:\Workspace\C#\hacker-rank-algoritm\birthday-cake-candles\birthday-cake-candles\obj\Debug\net5.0\birthday-cake-candles.genruntimeconfig.cache
