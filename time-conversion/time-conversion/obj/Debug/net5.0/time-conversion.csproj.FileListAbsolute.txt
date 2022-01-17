@@ -1,0 +1,16 @@
+D:\Workspace\C#\hacker-rank-algoritm\time-conversion\time-conversion\bin\Debug\net5.0\time-conversion.exe
+D:\Workspace\C#\hacker-rank-algoritm\time-conversion\time-conversion\bin\Debug\net5.0\time-conversion.deps.json
+D:\Workspace\C#\hacker-rank-algoritm\time-conversion\time-conversion\bin\Debug\net5.0\time-conversion.runtimeconfig.json
+D:\Workspace\C#\hacker-rank-algoritm\time-conversion\time-conversion\bin\Debug\net5.0\time-conversion.runtimeconfig.dev.json
+D:\Workspace\C#\hacker-rank-algoritm\time-conversion\time-conversion\bin\Debug\net5.0\time-conversion.dll
+D:\Workspace\C#\hacker-rank-algoritm\time-conversion\time-conversion\bin\Debug\net5.0\ref\time-conversion.dll
+D:\Workspace\C#\hacker-rank-algoritm\time-conversion\time-conversion\bin\Debug\net5.0\time-conversion.pdb
+D:\Workspace\C#\hacker-rank-algoritm\time-conversion\time-conversion\obj\Debug\net5.0\time-conversion.csproj.AssemblyReference.cache
+D:\Workspace\C#\hacker-rank-algoritm\time-conversion\time-conversion\obj\Debug\net5.0\time-conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\hacker-rank-algoritm\time-conversion\time-conversion\obj\Debug\net5.0\time-conversion.AssemblyInfoInputs.cache
+D:\Workspace\C#\hacker-rank-algoritm\time-conversion\time-conversion\obj\Debug\net5.0\time-conversion.AssemblyInfo.cs
+D:\Workspace\C#\hacker-rank-algoritm\time-conversion\time-conversion\obj\Debug\net5.0\time-conversion.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\hacker-rank-algoritm\time-conversion\time-conversion\obj\Debug\net5.0\time-conversion.dll
+D:\Workspace\C#\hacker-rank-algoritm\time-conversion\time-conversion\obj\Debug\net5.0\ref\time-conversion.dll
+D:\Workspace\C#\hacker-rank-algoritm\time-conversion\time-conversion\obj\Debug\net5.0\time-conversion.pdb
+D:\Workspace\C#\hacker-rank-algoritm\time-conversion\time-conversion\obj\Debug\net5.0\time-conversion.genruntimeconfig.cache
