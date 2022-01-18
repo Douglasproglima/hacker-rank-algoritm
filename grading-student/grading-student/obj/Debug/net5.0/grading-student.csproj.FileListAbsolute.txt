@@ -1,0 +1,16 @@
+D:\Workspace\C#\hacker-rank-algoritm\grading-student\grading-student\bin\Debug\net5.0\grading-student.exe
+D:\Workspace\C#\hacker-rank-algoritm\grading-student\grading-student\bin\Debug\net5.0\grading-student.deps.json
+D:\Workspace\C#\hacker-rank-algoritm\grading-student\grading-student\bin\Debug\net5.0\grading-student.runtimeconfig.json
+D:\Workspace\C#\hacker-rank-algoritm\grading-student\grading-student\bin\Debug\net5.0\grading-student.runtimeconfig.dev.json
+D:\Workspace\C#\hacker-rank-algoritm\grading-student\grading-student\bin\Debug\net5.0\grading-student.dll
+D:\Workspace\C#\hacker-rank-algoritm\grading-student\grading-student\bin\Debug\net5.0\ref\grading-student.dll
+D:\Workspace\C#\hacker-rank-algoritm\grading-student\grading-student\bin\Debug\net5.0\grading-student.pdb
+D:\Workspace\C#\hacker-rank-algoritm\grading-student\grading-student\obj\Debug\net5.0\grading-student.csproj.AssemblyReference.cache
+D:\Workspace\C#\hacker-rank-algoritm\grading-student\grading-student\obj\Debug\net5.0\grading-student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\hacker-rank-algoritm\grading-student\grading-student\obj\Debug\net5.0\grading-student.AssemblyInfoInputs.cache
+D:\Workspace\C#\hacker-rank-algoritm\grading-student\grading-student\obj\Debug\net5.0\grading-student.AssemblyInfo.cs
+D:\Workspace\C#\hacker-rank-algoritm\grading-student\grading-student\obj\Debug\net5.0\grading-student.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\hacker-rank-algoritm\grading-student\grading-student\obj\Debug\net5.0\grading-student.dll
+D:\Workspace\C#\hacker-rank-algoritm\grading-student\grading-student\obj\Debug\net5.0\ref\grading-student.dll
+D:\Workspace\C#\hacker-rank-algoritm\grading-student\grading-student\obj\Debug\net5.0\grading-student.pdb
+D:\Workspace\C#\hacker-rank-algoritm\grading-student\grading-student\obj\Debug\net5.0\grading-student.genruntimeconfig.cache
