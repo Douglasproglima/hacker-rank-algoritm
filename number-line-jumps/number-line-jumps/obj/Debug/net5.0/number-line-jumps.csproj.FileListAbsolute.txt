@@ -1,0 +1,16 @@
+D:\Workspace\C#\hacker-rank-algoritm\number-line-jumps\number-line-jumps\bin\Debug\net5.0\number-line-jumps.exe
+D:\Workspace\C#\hacker-rank-algoritm\number-line-jumps\number-line-jumps\bin\Debug\net5.0\number-line-jumps.deps.json
+D:\Workspace\C#\hacker-rank-algoritm\number-line-jumps\number-line-jumps\bin\Debug\net5.0\number-line-jumps.runtimeconfig.json
+D:\Workspace\C#\hacker-rank-algoritm\number-line-jumps\number-line-jumps\bin\Debug\net5.0\number-line-jumps.runtimeconfig.dev.json
+D:\Workspace\C#\hacker-rank-algoritm\number-line-jumps\number-line-jumps\bin\Debug\net5.0\number-line-jumps.dll
+D:\Workspace\C#\hacker-rank-algoritm\number-line-jumps\number-line-jumps\bin\Debug\net5.0\ref\number-line-jumps.dll
+D:\Workspace\C#\hacker-rank-algoritm\number-line-jumps\number-line-jumps\bin\Debug\net5.0\number-line-jumps.pdb
+D:\Workspace\C#\hacker-rank-algoritm\number-line-jumps\number-line-jumps\obj\Debug\net5.0\number-line-jumps.csproj.AssemblyReference.cache
+D:\Workspace\C#\hacker-rank-algoritm\number-line-jumps\number-line-jumps\obj\Debug\net5.0\number-line-jumps.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\hacker-rank-algoritm\number-line-jumps\number-line-jumps\obj\Debug\net5.0\number-line-jumps.AssemblyInfoInputs.cache
+D:\Workspace\C#\hacker-rank-algoritm\number-line-jumps\number-line-jumps\obj\Debug\net5.0\number-line-jumps.AssemblyInfo.cs
+D:\Workspace\C#\hacker-rank-algoritm\number-line-jumps\number-line-jumps\obj\Debug\net5.0\number-line-jumps.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\hacker-rank-algoritm\number-line-jumps\number-line-jumps\obj\Debug\net5.0\number-line-jumps.dll
+D:\Workspace\C#\hacker-rank-algoritm\number-line-jumps\number-line-jumps\obj\Debug\net5.0\ref\number-line-jumps.dll
+D:\Workspace\C#\hacker-rank-algoritm\number-line-jumps\number-line-jumps\obj\Debug\net5.0\number-line-jumps.pdb
+D:\Workspace\C#\hacker-rank-algoritm\number-line-jumps\number-line-jumps\obj\Debug\net5.0\number-line-jumps.genruntimeconfig.cache
